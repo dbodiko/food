@@ -29,27 +29,3 @@ window.addEventListener('DOMContentLoaded', function() {
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
